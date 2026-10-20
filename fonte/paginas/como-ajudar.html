@@ -1,0 +1,63 @@
+<div class="page-head"><div class="wrap stack">
+  <span class="eyebrow">Como ajudar</span>
+  <h1>Cada ajuda tem um destino certo</h1>
+  <p class="lead">Doações de pessoas e empresas mantêm o que os convênios não cobrem: parte da equipe, alimentação, manutenção da sede e as atividades do dia a dia.</p>
+</div></div>
+
+<div class="band" id="doar">
+  <div class="wrap split top">
+    <div class="stack">
+      <h2>Doe pelo Pix</h2>
+      <p>Qualquer valor ajuda. A chave abaixo é exclusiva para doações à Alvorecer.</p>
+      <div class="pix">
+        <div class="stack" style="gap:4px"><small class="muted">Chave Pix · Alvorecer Ação Social e Educacional</small><code id="pixKey" class="pend">chave em criação</code></div>
+        <button class="copy-btn" id="copyPix" type="button">Copiar chave</button>
+      </div>
+      <p class="muted" id="pixMsg" aria-live="polite"></p>
+      <p class="muted">Precisa de recibo da doação? Escreva para <a class="mono" href="mailto:administrativo@alvorecerpr.org.br">administrativo@alvorecerpr.org.br</a>.</p>
+    </div>
+    <div class="stack">
+      <h3>Outras formas</h3>
+      <dl class="kv">
+        <dt>Alimentos</dt><dd>Não perecíveis, entregues na sede</dd>
+        <dt>Material</dt><dd>Papelaria, jogos, material esportivo</dd>
+        <dt>Empresas</dt><dd><a href="/o-que-fazemos/#empresas">Contrate um aprendiz</a> ou patrocine uma oficina</dd>
+      </dl>
+    </div>
+  </div>
+</div>
+
+<div class="band tint" id="bazar">
+  <div class="wrap split">
+    <div class="stack">
+      <h2>Bazar Alvorecer</h2>
+      <p>O bazar vende roupas, calçados e objetos doados. Tudo o que entra vira recurso para a entidade.</p>
+      <dl class="kv">
+        <dt>Onde</dt><dd>Rua Pedro Eloy de Souza, 1141, Bairro Alto</dd>
+        <dt>Quando</dt><dd>Terça a sexta, das 14h às 16h30. Sábado, das 9h às 11h30</dd>
+        <dt>Aceitamos</dt><dd class="pend">em atualização</dd>
+        <dt>Pagamento</dt><dd>Dinheiro, cartão e Pix</dd>
+      </dl>
+    </div>
+    <div class="photo"><span>Foto: bazar</span></div>
+  </div>
+</div>
+
+<div class="band" id="voluntario">
+  <div class="wrap split top">
+    <div class="stack">
+      <h2>Seja voluntário</h2>
+      <p>Profissionais que queiram dar uma oficina, ajudar em eventos ou no bazar. Todo voluntário assina termo de voluntariado e apresenta certidão de antecedentes criminais, porque trabalhamos com crianças e adolescentes.</p>
+    </div>
+    <form id="volForm" data-ok="volOk">
+      <label class="f" for="v-nome">Nome<input type="text" id="v-nome" name="nome" required autocomplete="name"></label>
+      <label class="f" for="v-contato">E-mail ou WhatsApp<input type="text" id="v-contato" name="contato" required></label>
+      <label class="f" for="v-area">Como quer ajudar
+        <select id="v-area" name="area"><option>Oficina com as crianças e adolescentes</option><option>Eventos</option><option>Bazar</option><option>Centro Espírita</option><option>Apoio administrativo</option><option>Outra forma</option></select>
+      </label>
+      <label class="check" for="v-ok"><input type="checkbox" id="v-ok" required> <span>Li a <a href="/privacidade/">política de privacidade</a> e autorizo o contato.</span></label>
+      <button class="btn btn-red" type="submit" style="align-self:flex-start">Enviar</button>
+      <p class="ok" id="volOk" role="status" tabindex="-1">O envio pelo site ainda não está ativo. Por enquanto, escreva para <a href="mailto:educacional@alvorecerpr.org.br">educacional@alvorecerpr.org.br</a> ou ligue para (41) 3367-7132.</p>
+    </form>
+  </div>
+</div>

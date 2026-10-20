@@ -1,0 +1,116 @@
+{
+ "_leia": "Dados das parcerias para a página Transparência (art. 11 da Lei 13.019/2014). Fonte: termos de parceria e planos de trabalho, e consulta ao SIT do TCE-PR. Trechos com class='pend' aparecem em amarelo na prévia.",
+ "prestacao_contas": "<span class='pend'>Em execução. Situação detalhada em atualização</span>",
+ "parcerias": [
+  {
+   "id": "termo-352",
+   "num": "Termo de Colaboração nº 352/2025",
+   "nome": "Convivendo e Fortalecendo Vínculos",
+   "status": "Vigente",
+   "orgao": "Fundação de Ação Social (FAS), gestora do Fundo Municipal de Assistência Social",
+   "assinatura": "26/11/2025",
+   "vigencia": "01/12/2025 a 01/12/2026",
+   "objeto": "Execução do Serviço de Convivência e Fortalecimento de Vínculos para crianças e adolescentes de 6 a 17 anos, com custeio de três orientadores sociais e de material de consumo (alimentação, material educativo e esportivo, limpeza e higiene). Meta: 45 crianças e adolescentes por mês, encaminhados pelos CRAS Bairro Alto, Atuba, Boa Vista e Cajuru.",
+   "origem": "Fundo Municipal de Assistência Social (FMAS)",
+   "valor": "R$ 189.000,00",
+   "liberado": "<span class='pend'>em atualização</span>",
+   "libnota": "repasses em parcelas bimestrais",
+   "nota": "Termo aditivo de prorrogação e reajuste em formalização: 02/01/2027 a 01/01/2028, R$ 197.391,60.",
+   "equipe": [
+    [
+     "Orientador(a) social 1",
+     "40h semanais",
+     "R$ 3.003,35"
+    ],
+    [
+     "Orientador(a) social 2",
+     "40h semanais",
+     "R$ 2.461,70"
+    ],
+    [
+     "Orientador(a) social 3",
+     "40h semanais",
+     "R$ 2.166,00 ¹"
+    ]
+   ],
+   "equipeTotal": "R$ 130.107,24 em 12 meses, com 13º, férias e encargos, conforme o plano de aplicação",
+   "equipeNota": "¹ Piso salarial da Convenção Coletiva de Trabalho SENALBA-PR/SECRASO 2025/2026 (registro MTE PR003101/2025), aplicado até a formalização do termo aditivo."
+  },
+  {
+   "id": "termo-27034",
+   "num": "Termo de Fomento nº 27034/2025",
+   "nome": "O Serviço Social fortalecendo o Serviço de Convivência",
+   "status": "Vigente",
+   "orgao": "Município de Curitiba, Secretaria Municipal de Desenvolvimento Humano (SMDH), gestora do Fundo Municipal para a Criança e o Adolescente. Interveniente: Fundação de Ação Social (FAS)",
+   "assinatura": "10/10/2025",
+   "vigencia": "21/10/2025 a 21/10/2027",
+   "objeto": "Custeio de uma assistente social e compra de material de consumo e de três equipamentos para qualificar o SCFV. Meta: 60 crianças e adolescentes por mês, da Regional Boa Vista (Bairro Alto, Tarumã e Atuba).",
+   "origem": "Fundo Municipal para a Criança e o Adolescente (FMCA)",
+   "valor": "R$ 329.550,00",
+   "liberado": "R$ 329.550,00",
+   "libnota": "parcela única, recebida em 2025",
+   "equipe": [
+    [
+     "Assistente social",
+     "30h semanais",
+     "R$ 3.210,79"
+    ]
+   ],
+   "equipeTotal": "R$ 110.451,36 em 24 meses, com 13º, férias e encargos"
+  },
+  {
+   "id": "termo-26768",
+   "num": "Termo de Fomento nº 26768/2025",
+   "nome": "Comida Saudável, Vida em Crescimento",
+   "status": "Vigente",
+   "orgao": "Município de Curitiba, Secretaria Municipal de Desenvolvimento Humano (SMDH), gestora do Fundo Municipal para a Criança e o Adolescente. Interveniente: Fundação de Ação Social (FAS)",
+   "assinatura": "23/10/2025",
+   "vigencia": "03/11/2025 a 03/11/2026",
+   "objeto": "Alimentação saudável para as crianças e os adolescentes do SCFV e do Programa de Aprendizagem, com custeio de uma cozinheira e compra de gêneros alimentícios, material de higiene e de escritório. Meta: 125 crianças e adolescentes por mês, da Regional Boa Vista.",
+   "origem": "Emenda parlamentar municipal (Proposição nº 308.00341.2024), pelo FMCA",
+   "valor": "R$ 50.000,00",
+   "liberado": "R$ 50.000,00",
+   "libnota": "parcela única, recebida em 2025",
+   "equipe": [
+    [
+     "Cozinheiro(a)",
+     "40h semanais",
+     "R$ 1.940,50"
+    ]
+   ],
+   "equipeTotal": "R$ 33.376,60 em 12 meses, com 13º, férias e encargos"
+  },
+  {
+   "id": "termo-433",
+   "num": "Termo de Fomento nº 433/2026",
+   "nome": "Ambientes de Desenvolvimento",
+   "status": "Vigente",
+   "orgao": "Fundação de Ação Social (FAS), gestora do Fundo Municipal de Assistência Social",
+   "assinatura": "21/07/2026",
+   "vigencia": "10/08/2026 a 10/01/2028",
+   "objeto": "Reforço temporário do SCFV com a compra de material de consumo: uniformes, material didático, esportivo e de papelaria, higiene e limpeza. Meta: 45 crianças e adolescentes por mês, dos territórios dos CRAS Bairro Alto, Atuba e Cajuru.",
+   "origem": "Emenda parlamentar federal, pelo FMAS",
+   "valor": "R$ 100.000,00",
+   "liberado": "R$ 100.000,00",
+   "libnota": "parcela única, recebida em 31/08/2026",
+   "equipe": null
+  },
+  {
+   "id": "termo-28012",
+   "num": "Termo de Fomento nº 28012",
+   "nome": "Infraestrutura e Dignidade",
+   "status": "Em formalização",
+   "statusText": "Em formalização",
+   "statusCls": "form",
+   "orgao": "Município de Curitiba, Secretaria Municipal de Desenvolvimento Humano (SMDH), gestora do Fundo Municipal para a Criança e o Adolescente. Interveniente: Fundação de Ação Social (FAS)",
+   "assinatura": "Assinado pela Alvorecer em 28/08/2026. Aguardando a assinatura do Município",
+   "vigencia": "07/09/2026 a 07/09/2027, conforme o instrumento",
+   "objeto": "Compra de utensílios de cozinha (R$ 20.000,00) e de 6 computadores (R$ 20.000,00) para o SCFV e o Programa de Aprendizagem. Meta: 45 crianças e adolescentes por mês, dos territórios dos CRAS Bairro Alto, Atuba e Cajuru.",
+   "origem": "Emendas parlamentares municipais, pelo FMCA",
+   "valor": "R$ 40.000,00",
+   "liberado": "<span class='pend'>R$ 0,00</span>",
+   "libnota": "parcela única, após a assinatura de todas as partes",
+   "equipe": null
+  }
+ ]
+}
